@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv*/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data files (large - uncomment if you don't want to commit them)
+# *.pt
+# *.pth
+# *.pkl
+
+# Results (uncomment if you don't want to commit visualizations)
+# results/*.png
+# results/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+cookies.txt
+*.log
+*.tmp
+
+# Model checkpoints (uncomment if too large for git)
+# *.pth
+# *.ckpt
+
+# Environment variables
+.env
+.env.local
+
